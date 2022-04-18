@@ -1,0 +1,29 @@
+[
+	{
+		"id": "625b21b12c5163b88b6baba1",
+		"price": 199.00,
+		"picture": "./img/Pack-1.png",
+		"duration": "22h 10min",
+		"review": 4.5,
+		"name": "Learn the basics of lifestyle & content photography",
+		"noLecture": 30
+	},
+	{
+		"id": "625b21b178ae4208346e9838",
+		"price": 175.00,
+		"picture": "./img/Pack-2.png",
+		"duration": "25h 20min",
+		"review": 4.7,
+		"name": "How to shoot lifestyle images photography",
+		"noLecture": 35
+	},
+	{
+		"id": "625b21b173acbcdb86a0b15e",
+		"price": 150.00,
+		"picture": "./img/Pack-3.png",
+		"duration": "20h 20min",
+		"review": 5.0,
+		"name": "How to get started with lifestyle photography",
+		"noLecture": 30
+	}
+]

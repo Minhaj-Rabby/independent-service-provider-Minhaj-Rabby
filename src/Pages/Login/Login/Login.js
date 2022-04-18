@@ -72,7 +72,7 @@ const Login = () => {
 			navigate(from, { replace: true });
 		}
 
-	}, [user, userg, navigate])
+	}, [user, userg, navigate,from])
 
 	const handleUserSignIn = (e) => {
 		e.preventDefault();

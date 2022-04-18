@@ -80,8 +80,7 @@ const Register = () => {
 	const onChange = (e) => {
 		setValues({ ...values, [e.target.name]: e.target.value });
 	};
-	//console.log(values);
-	//navigate
+	
 	useEffect(() => {
 		if (user || userg) {
 			navigate("/");

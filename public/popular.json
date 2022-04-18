@@ -1,0 +1,25 @@
+[
+	{
+		"id": 1,
+		"name": "Data & Analytics",
+		"img": "./img/icon-1.png",
+		"noClass": 12,
+		"bgC": "#EDFDFF"
+	},
+
+	{
+		"id": 2,
+		"name": "Mathematics",
+		"img": "./img/icon-3.png",
+		"noClass": 32,
+		"bgC": "#EEEDFF"
+	},
+
+	{
+		"id": 3,
+		"name": "IT & Software",
+		"img": "./img/icon-2.png",
+		"noClass": 52,
+		"bgC": "#FFEDF4"
+	}
+]

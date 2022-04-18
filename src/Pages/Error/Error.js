@@ -2,7 +2,11 @@ import React from "react";
 
 const Error = () => {
 	return (
-		<div>
+		<div
+			className="flex justify-center items-center"
+			style={{ height: "90vh" }}
+		>
+			<h1 className="text-4xl">404! Error</h1>
 		</div>
 	);
 };

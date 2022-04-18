@@ -81,7 +81,7 @@ const Navbar = () => {
 							alt="logo"
 							className="w-32 h-8"
 						/> */}
-						<h2 className="text-orange-400 font-semibold">Minhaj Wedding Photography</h2>
+						<h2 className="text-black-400 font-semibold">Minhaj Photography Academy</h2>
 					</NavLink>
 					{/* <!-- Left links --> */}
 					<ul className="navbar-nav flex flex-col pl-0 list-style-none mr-auto">

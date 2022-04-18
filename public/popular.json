@@ -1,25 +1,25 @@
 [
 	{
 		"id": 1,
-		"name": "Data & Analytics",
+		"name": "lifestyle Photography",
 		"img": "./img/icon-1.png",
-		"noClass": 12,
+		"noClass": 50,
 		"bgC": "#EDFDFF"
 	},
 
 	{
 		"id": 2,
-		"name": "Mathematics",
+		"name": "Wildlife Photography",
 		"img": "./img/icon-3.png",
-		"noClass": 32,
+		"noClass": 34,
 		"bgC": "#EEEDFF"
 	},
 
 	{
 		"id": 3,
-		"name": "IT & Software",
+		"name": "Street Photography",
 		"img": "./img/icon-2.png",
-		"noClass": 52,
+		"noClass": 40,
 		"bgC": "#FFEDF4"
 	}
 ]
